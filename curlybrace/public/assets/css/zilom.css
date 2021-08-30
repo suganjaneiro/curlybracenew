@@ -4297,10 +4297,10 @@ ul {
 
 /***
 =============================================
-    Newsletter One
+    Galleryletter One
 =============================================
 ***/
-.newsletter-one {
+.Galleryletter-one {
     position: relative;
     display: block;
     padding: 122px 0px 102px;
@@ -4309,52 +4309,52 @@ ul {
     z-index: 1;
 }
 
-.newsletter-one .section-title {
+.Galleryletter-one .section-title {
     margin-bottom: 0;
 }
 
-.newsletter-one .section-title__title {
+.Galleryletter-one .section-title__title {
     color: #ffffff;
 }
 
-.newsletter-one__left {
+.Galleryletter-one__left {
     position: relative;
     display: block;
 }
 
 
-.newsletter-one__right {
+.Galleryletter-one__right {
     position: relative;
     display: block;
     max-width: 500px;
     margin-left: 70px;
 }
 
-.newsletter-one__right .shape1 {
+.Galleryletter-one__right .shape1 {
     position: absolute;
     top: -265px;
     right: 70px;
     z-index: -1;
 }
 
-.newsletter-one__right .shape2 {
+.Galleryletter-one__right .shape2 {
     position: absolute;
     top: -450px;
     right: -470px;
     z-index: -1;
 }
 
-.newsletter-one__right .newsletter-form {
+.Galleryletter-one__right .Galleryletter-form {
     display: block;
     overflow: hidden;
 }
 
-.newsletter-one__right .newsletter-form form {
+.Galleryletter-one__right .Galleryletter-form form {
     position: relative;
     display: block;
 }
 
-.newsletter-one__right .newsletter-form form input[type=text] {
+.Galleryletter-one__right .Galleryletter-form form input[type=text] {
     position: relative;
     display: block;
     background: transparent;
@@ -4373,7 +4373,7 @@ ul {
     outline: none;
 }
 
-.newsletter-one__right .newsletter-form form button {
+.Galleryletter-one__right .Galleryletter-form form button {
     position: absolute;
     top: 0;
     right: 0px;
@@ -4388,13 +4388,13 @@ ul {
     background: none;
 }
 
-.newsletter-one__right-checkbox {
+.Galleryletter-one__right-checkbox {
     position: relative;
     display: block;
     margin-top: 23px;
 }
 
-.newsletter-one__right-checkbox label {
+.Galleryletter-one__right-checkbox label {
     position: relative;
     display: inline-block;
     padding-left: 25px;
@@ -4407,11 +4407,11 @@ ul {
     cursor: pointer;
 }
 
-.newsletter-one__right-checkbox input[type="checkbox"] {
+.Galleryletter-one__right-checkbox input[type="checkbox"] {
     display: none;
 }
 
-.newsletter-one__right-checkbox input[type="checkbox"]+label span {
+.Galleryletter-one__right-checkbox input[type="checkbox"]+label span {
     position: absolute;
     display: block;
     top: 4px;
@@ -4429,7 +4429,7 @@ ul {
     transition: all 300ms ease;
 }
 
-.newsletter-one__right-checkbox label span:before {
+.Galleryletter-one__right-checkbox label span:before {
     position: absolute;
     top: 0px;
     left: 0px;
@@ -4446,11 +4446,11 @@ ul {
     transition: all 300ms ease;
 }
 
-.newsletter-one__right-checkbox input[type="checkbox"]:checked+label span {
+.Galleryletter-one__right-checkbox input[type="checkbox"]:checked+label span {
     border-color: #ffffff;
 }
 
-.newsletter-one__right-checkbox input[type="checkbox"]:checked+label span:before {
+.Galleryletter-one__right-checkbox input[type="checkbox"]:checked+label span:before {
     transform: scale(1.0);
 }
 
@@ -5256,21 +5256,21 @@ ul {
 
 /***
 =============================================
-    Meet Teachers One
+    Meet Teams One
 =============================================
 ***/
-.meet-teachers-one {
+.meet-Teams-one {
     position: relative;
     display: block;
     background: #ffffff;
     padding: 120px 0px 90px;
 }
 
-.meet-teachers-one .section-title {
+.meet-Teams-one .section-title {
     margin-bottom: 42px;
 }
 
-.meet-teachers-one__single {
+.meet-Teams-one__single {
     position: relative;
     display: block;
     border: 1px solid #e0e2e9;
@@ -5282,11 +5282,11 @@ ul {
     transition-delay: 0.1s;
 }
 
-.meet-teachers-one__single:hover {
+.meet-Teams-one__single:hover {
     box-shadow: 0px 10px 60px 0px rgb(0, 0, 0, 0.1);
 }
 
-.meet-teachers-one__single-img {
+.meet-Teams-one__single-img {
     position: relative;
     display: block;
     overflow: hidden;
@@ -5297,7 +5297,7 @@ ul {
     z-index: 1;
 }
 
-.meet-teachers-one__single-img::before {
+.meet-Teams-one__single-img::before {
     position: absolute;
     top: 0;
     right: 0;
@@ -5311,55 +5311,55 @@ ul {
     z-index: 1;
 }
 
-.meet-teachers-one__single:hover .meet-teachers-one__single-img::before {
+.meet-Teams-one__single:hover .meet-Teams-one__single-img::before {
     transform: scale(1);
 }
 
-.meet-teachers-one__single-img img {
+.meet-Teams-one__single-img img {
     width: 100%;
     transition: all 500ms ease;
 }
 
-.meet-teachers-one__single:hover .meet-teachers-one__single-img img {
+.meet-Teams-one__single:hover .meet-Teams-one__single-img img {
     transform: scale(1.2)
 }
 
 
-.meet-teachers-one__single-content {
+.meet-Teams-one__single-content {
     position: relative;
     display: block;
 }
 
-.meet-teachers-one__single-middle-content {
+.meet-Teams-one__single-middle-content {
     position: relative;
     display: block;
     padding: 0px 60px 0px;
 }
 
-.meet-teachers-one__single-content .title {
+.meet-Teams-one__single-content .title {
     position: relative;
     display: block;
     margin-top: 24px;
     margin-bottom: 15px;
 }
 
-.meet-teachers-one__single-content .title h4 {
+.meet-Teams-one__single-content .title h4 {
     font-size: 20px;
     line-height: 30px;
     font-weight: 700;
 }
 
-.meet-teachers-one__single-content .title h4 a {
+.meet-Teams-one__single-content .title h4 a {
     color: var(--thm-black);
     transition: all 200ms linear;
     transition-delay: 0.1s;
 }
 
-.meet-teachers-one__single-content .title h4 a:hover {
+.meet-Teams-one__single-content .title h4 a:hover {
     color: var(--thm-base);
 }
 
-.meet-teachers-one__single-content .title p {
+.meet-Teams-one__single-content .title p {
     color: var(--thm-base);
     font-size: 12px;
     line-height: 22px;
@@ -5369,19 +5369,19 @@ ul {
     margin: 0;
 }
 
-.meet-teachers-one__single-content-text {
+.meet-Teams-one__single-content-text {
     font-size: 16px;
     margin: 0;
 }
 
-.meet-teachers-one__single-bottom-content {
+.meet-Teams-one__single-bottom-content {
     position: relative;
     display: block;
     padding: 0px 40px 0px;
     margin-top: 23px;
 }
 
-.meet-teachers-one__single-content-courses-box {
+.meet-Teams-one__single-content-courses-box {
     position: relative;
     display: flex;
     background: #f1f2f6;
@@ -5393,45 +5393,45 @@ ul {
     padding: 15px 30px 12px;
 }
 
-.meet-teachers-one__single-content-courses-box .text {
+.meet-Teams-one__single-content-courses-box .text {
     position: relative;
     display: block;
 }
 
-.meet-teachers-one__single-content-courses-box .text p {
+.meet-Teams-one__single-content-courses-box .text p {
     font-size: 14px;
     margin: 0;
 }
 
-.meet-teachers-one__single-content-courses-box .social-icon {
+.meet-Teams-one__single-content-courses-box .social-icon {
     position: relative;
     display: block;
 }
 
-.meet-teachers-one__single-content-courses-box .social-icon ul {
+.meet-Teams-one__single-content-courses-box .social-icon ul {
     position: relative;
     display: block;
     overflow: hidden;
 }
 
-.meet-teachers-one__single-content-courses-box .social-icon ul li {
+.meet-Teams-one__single-content-courses-box .social-icon ul li {
     position: relative;
     float: left;
     margin-right: 15px;
 }
 
-.meet-teachers-one__single-content-courses-box .social-icon ul li:last-child {
+.meet-Teams-one__single-content-courses-box .social-icon ul li:last-child {
     margin-right: 0px;
 }
 
-.meet-teachers-one__single-content-courses-box .social-icon ul li a {
+.meet-Teams-one__single-content-courses-box .social-icon ul li a {
     color: var(--thm-gray);
     font-size: 15px;
     transition: all 200ms linear;
     transition-delay: 0.1s;
 }
 
-.meet-teachers-one__single-content-courses-box .social-icon ul li a:hover {
+.meet-Teams-one__single-content-courses-box .social-icon ul li a:hover {
     color: var(--thm-base);
 }
 
@@ -5888,16 +5888,16 @@ ul {
 
 /***
 =============================================
-    News Details
+    Gallery Details
 =============================================
 ***/
-.news-details {
+.Gallery-details {
     position: relative;
     display: block;
     padding: 120px 0 120px;
 }
 
-.news-details__left {
+.Gallery-details__left {
     position: relative;
     display: block;
 }
@@ -5949,37 +5949,37 @@ ul {
     margin-top: 5px;
 }
 
-.news-details__text1 {
+.Gallery-details__text1 {
     position: relative;
     display: block;
     margin-bottom: 40px;
 }
 
-.news-details__text1 p {
+.Gallery-details__text1 p {
     margin: 0;
 }
 
-.news-details__text2 {
+.Gallery-details__text2 {
     position: relative;
     display: block;
     margin-bottom: 40px;
 }
 
-.news-details__text2 p {
+.Gallery-details__text2 p {
     margin: 0;
 }
 
-.news-details__text3 {
+.Gallery-details__text3 {
     position: relative;
     display: block;
 }
 
-.news-details__text3 p {
+.Gallery-details__text3 p {
     margin: 0;
 }
 
 
-.news-details__bottom {
+.Gallery-details__bottom {
     display: -webkit-box;
     display: flex;
     -webkit-box-align: center;
@@ -5992,18 +5992,18 @@ ul {
     margin-top: 48px;
 }
 
-.news-details__bottom p {
+.Gallery-details__bottom p {
     margin: 0;
 }
 
-.news-details__tags span {
+.Gallery-details__tags span {
     color: var(--thm-black);
     font-weight: 700;
     font-size: 20px;
     margin-right: 15px;
 }
 
-.news-details__tags a {
+.Gallery-details__tags a {
     color: #ffffff;
     font-size: 10px;
     font-weight: 700;
@@ -6016,22 +6016,22 @@ ul {
     transition-delay: 0.1s;
 }
 
-.news-details__tags a:hover {
+.Gallery-details__tags a:hover {
     background: var(--thm-black);
 }
 
-.news-details__tags a+a {
+.Gallery-details__tags a+a {
     margin-left: 5px;
 }
 
-.news-details__social-list {
+.Gallery-details__social-list {
     display: -webkit-box;
     display: flex;
     -webkit-box-align: center;
     align-items: center;
 }
 
-.news-details__social-list a {
+.Gallery-details__social-list a {
     display: -webkit-box;
     display: flex;
     -webkit-box-align: center;
@@ -6049,11 +6049,11 @@ ul {
     transition: all 500ms ease;
 }
 
-.news-details__social-list a+a {
+.Gallery-details__social-list a+a {
     margin-left: 10px;
 }
 
-.news-details__social-list a:hover {
+.Gallery-details__social-list a:hover {
     color: #ffffff;
     background: var(--thm-base);
 }
