@@ -263,12 +263,12 @@
 
 
 
-    /***Newsletter One Css***/
-    .newsletter-one .section-title__title br {
+    /***Galleryletter One Css***/
+    .Galleryletter-one .section-title__title br {
         display: none;
     }
 
-    .newsletter-one__right {
+    .Galleryletter-one__right {
         margin-left: 50px;
     }
 
@@ -323,12 +323,12 @@
 
     }
 
-    /***Meet Teachers One Css***/
-    .meet-teachers-one__single-middle-content {
+    /***Meet Teams One Css***/
+    .meet-Teams-one__single-middle-content {
         padding: 0px 40px 0px;
     }
 
-    .meet-teachers-one__single-bottom-content {
+    .meet-Teams-one__single-bottom-content {
         padding: 0px 30px 0px;
     }
 
@@ -592,17 +592,17 @@
         display: none;
     }
 
-    /***Newsletter One***/
-    .newsletter-one__right {
+    /***Galleryletter One***/
+    .Galleryletter-one__right {
         margin-left: 0px;
         margin-top: 30px;
     }
 
-    .newsletter-one__right .shape1 {
+    .Galleryletter-one__right .shape1 {
         display: none;
     }
 
-    .newsletter-one .section-title__title br {
+    .Galleryletter-one .section-title__title br {
         display: none;
     }
 
@@ -663,8 +663,8 @@
         margin-top: 50px;
     }
 
-    /***Meet Teachers One Css***/
-    .meet-teachers-one__single {
+    /***Meet Teams One Css***/
+    .meet-Teams-one__single {
         max-width: 500px;
         margin: 0 auto 30px;
     }
@@ -737,7 +737,7 @@
     }
 
     /***Teaching One Css**/
-    .meet-teachers-one--teachers {
+    .meet-Teams-one--Teams {
         position: relative;
         display: block;
         padding: 108px 0px 90px;
@@ -756,7 +756,7 @@
         margin-top: 40px;
     }
 
-    /***News Details Css**/
+    /***Gallery Details Css**/
     .blog-one__single.style2 {
         max-width: none;
         margin: 0px 0px 30px;
@@ -980,25 +980,25 @@
         margin-top: 50px;
     }
 
-    /***Newsletter One***/
-    .newsletter-one__right {
+    /***Galleryletter One***/
+    .Galleryletter-one__right {
         margin-left: 0px;
         margin-top: 30px;
     }
 
-    .newsletter-one .section-title__title {
+    .Galleryletter-one .section-title__title {
         font-size: 39px;
     }
 
-    .newsletter-one .section-title__title br {
+    .Galleryletter-one .section-title__title br {
         display: none;
     }
 
-    .newsletter-one__right .shape1 {
+    .Galleryletter-one__right .shape1 {
         display: none;
     }
 
-    .newsletter-one__right .shape2 {
+    .Galleryletter-one__right .shape2 {
         display: none;
     }
 
@@ -1103,17 +1103,17 @@
         margin-right: auto;
     }
 
-    /***Meet Teachers One Css***/
-    .meet-teachers-one__single {
+    /***Meet Teams One Css***/
+    .meet-Teams-one__single {
         max-width: 500px;
         margin: 0 auto 30px;
     }
 
-    .meet-teachers-one__single-middle-content {
+    .meet-Teams-one__single-middle-content {
         padding: 0px 40px 0px;
     }
 
-    .meet-teachers-one__single-bottom-content {
+    .meet-Teams-one__single-bottom-content {
         padding: 0px 30px 0px;
     }
 
@@ -1232,7 +1232,7 @@
     }
 
     /***Teaching One Css**/
-    .meet-teachers-one--teachers {
+    .meet-Teams-one--Teams {
         position: relative;
         display: block;
         padding: 108px 0px 90px;
@@ -1349,7 +1349,7 @@
         display: none;
     }
 
-    /***News Details Css**/
+    /***Gallery Details Css**/
     .blog-one__single.style2 {
         max-width: none;
         margin: 0px 0px 30px;
@@ -1359,7 +1359,7 @@
         left: 0px;
     }
 
-    .news-details__social-list {
+    .Gallery-details__social-list {
         margin-top: 20px;
     }
 
