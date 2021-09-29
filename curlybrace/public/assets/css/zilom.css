@@ -277,6 +277,7 @@ ul {
 
 .thm-btn {
     position: relative;
+    margin-left: 30px;
     display: inline-block;
     vertical-align: middle;
     -webkit-appearance: none;
