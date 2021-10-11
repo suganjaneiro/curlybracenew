@@ -295,6 +295,12 @@ ul {
     letter-spacing: 0.1em;
     z-index: 1;
 }
+/* @media(min-width: 360px) and (max-width:480px){
+    #mobile_footer {
+        background-image: url(public\assets\images\backgrounds\mobile_footer);
+
+    }
+} */
 
 #btn1{
     padding: 15px;
