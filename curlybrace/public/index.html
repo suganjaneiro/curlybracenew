@@ -936,18 +936,27 @@
                                     <h4>Fill your Registration</h4>
                                 </div>
                                 <div class="form-box">
-                                    <form method="post" action="index.html">
+                                    <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"
+                                        onload="if(submitted) {window.location='https://curlybrace.org/index.html';}"></iframe>
+                                    <form
+                                        action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSeUOp9aoGkHkI-x2DTLGuZZpXIeY_rGgKFhm-_OsdMqDq-l9g/formResponse"
+                                        target="hidden_iframe" method="POST" id="mG61Hd"
+                                        onsubmit="return validateRegister();">
                                         <div class="form-group">
-                                            <input type="text" name="username" placeholder="Your Name" required="">
+                                            <input type="text" name="entry.1461650091" id="c-name"
+                                                placeholder="Your Name" required="">
                                         </div>
                                         <div class="form-group">
-                                            <input type="email" name="email" placeholder="Email Address" required="">
+                                            <input type="email" name="entry.284933609" id="c-email"
+                                                placeholder="Email Address" required="">
                                         </div>
                                         <div class="form-group">
-                                            <input type="text" name="phone" placeholder="Phone" required="">
+                                            <input type="text" name="entry.1043335662" id="c-phone" placeholder="Phone"
+                                                required="">
                                         </div>
                                         <div class="form-group">
-                                            <textarea placeholder="Comment"></textarea>
+                                            <textarea name="entry.1127774251" id="c-course"
+                                                placeholder="Courses"></textarea>
                                         </div>
                                         <button class="registration-one__right-form-btn" type="submit"
                                             name="submit-form">
@@ -998,31 +1007,31 @@
                 }
             }}'>
                     <div class="swiper-wrapper">
-                        <div class="swiper-slide">
+                        <div class="swiper-slide" style="padding-top: 20px;">
                             <img src="assets/images/our_clients_logo/apccollegelogo.jpeg" alt="">
                         </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
+                        <div class="swiper-slide" style="padding-bottom: 40px;">
                             <img src="assets/images/our_clients_logo/stmaryscollegelogo.jpeg" alt="">
                         </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
+                        <div class="swiper-slide" style="padding-top: 20px;">
                             <img src="assets/images/our_clients_logo/hchsclogo.jpg" alt="">
                         </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
+                        <div class="swiper-slide" style="padding-top: 30px;">
                             <img src="assets/images/our_clients_logo/kamarajcollegelogo.png" alt="">
                         </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
+                        <div class="swiper-slide" style="padding-top: 20px;">
                             <img src="assets/images/our_clients_logo/psncollegelogo.jpeg" alt="">
                         </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
+                        <div class="swiper-slide" style="padding-top: 80px;">
                             <img src="assets/images/our_clients_logo/mothertheresacollegelogo.jpg" alt="">
                         </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
+                        <div class="swiper-slide" style="padding-top: 80px;">
                             <img src="assets/images/our_clients_logo/digisailorlogo.png" alt="">
                         </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
+                        <div class="swiper-slide" style="padding-top: 20px;">
                             <img src="assets/images/our_clients_logo/servite_school.png" alt="">
                         </div>
-                        <div class="swiper-slide">
+                        <div class="swiper-slide" style="padding-top: 20px;">
                             <img src="assets/images/our_clients_logo/st_anns_school.png" alt="">
                         </div>
                         <div class="swiper-slide">
@@ -1067,15 +1076,16 @@
                                     src="assets/images/shapes/thm-shape3.png" alt="" /></div>
                             <div class="Galleryletter-form wow slideInDown" data-wow-delay="100ms"
                                 data-wow-duration="1500ms">
-                                <form action="#">
-                                    <input type="text" name="email" placeholder="Enter your email">
+                                <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"
+                                    onload="if(submitted) {window.location='https://curlybrace.org/index.html';}"></iframe>
+                                <form
+                                    action="https://docs.google.com/forms/u/0/d/e/1FAIpQLScb2rv7EUEVRzLfd2ifM0F-yLybDqKQusMr6rpUMWXV01XAcg/formResponse"
+                                    target="hidden_iframe" method="POST" id="mG61Hd"
+                                    onsubmit="return validateSubscribe();">
+                                    <input type="text" id="email" name="entry.1082214493"
+                                        placeholder="Enter your email">
                                     <button type="submit"><span class="icon-paper-plane"></span></button>
                                 </form>
-                                <div class="Galleryletter-one__right-checkbox">
-                                    <input type="checkbox" name="agree " id="agree" checked>
-                                    <label for="agree"><span></span>I agree to all terms and policies of the
-                                        company</label>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -1285,12 +1295,16 @@
     <script src="assets/vendors/twentytwenty/twentytwenty.js"></script>
     <script src="assets/vendors/twentytwenty/jquery.event.move.js"></script>
     <script src="assets/vendors/parallax/parallax.min.js"></script>
+    <script src="assets/js/registration.js"></script>
+    <script src="assets/js/subscribe.js"></script>
 
 
     <script src="http://maps.google.com/maps/api/js?key=AIzaSyATY4Rxc8jNvDpsK8ZetC7JyN4PFVYGCGM"></script>
 
     <!-- template js -->
     <script src="assets/js/zilom.js"></script>
+
+
 
 
 </body>
