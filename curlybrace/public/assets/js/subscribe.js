@@ -1,4 +1,3 @@
-
 let submitted = false;
 
 function validateEmail() {

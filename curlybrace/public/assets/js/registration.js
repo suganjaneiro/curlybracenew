@@ -60,7 +60,7 @@ function validateRegister() {
         alert("Form not submitted"); //Validation Message
         return false;
     } else {
-        alert("Thank you");
+        alert("Thank you for registration");
         submitted = true;
         return true;
     }
